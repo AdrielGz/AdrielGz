@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdrielGz
 - 👀 I’m interested in Robotics
-- 🌱 I’m currently learning Javascri[t
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me. Email:goadriel34@gmail.com
 
